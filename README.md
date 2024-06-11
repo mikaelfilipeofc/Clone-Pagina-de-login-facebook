@@ -4,11 +4,11 @@ Recriei a Página de Login do Facebook, modelo totalmente responsivo a todos os 
 
 ### Screenshot Desktop 💻
 
-<img src="/mobile.png" />
+<img src="/desktop.png" />
 
 ### Screenshot Mobile 📱
 
-<img src="/desktop.jpeg" width="200" height="400" />
+<img src="/mobile.jpeg" width="200" height="400" />
 
 ### Tecnologias usadas 📚
 

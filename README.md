@@ -8,7 +8,7 @@ Recriei a Página de Login do Facebook, modelo totalmente responsivo a todos os 
 
 ### Screenshot Mobile 📱
 
-<img src="/mobile.jpeg" width="200" height="400" />
+<img src="/mobile.png" width="200" height="400" />
 
 ### Tecnologias usadas 📚
 
